@@ -4,3 +4,5 @@ Cette ligne va apparaitre dans le git diff.
 
 
 Troisieme ligne.
+
+Cette ligne est présente initialement sur l'origin.
