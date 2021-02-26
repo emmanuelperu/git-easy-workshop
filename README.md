@@ -6,3 +6,4 @@ Cette ligne va apparaitre dans le git diff.
 Troisieme ligne.
 
 Cette ligne est présente initialement sur l'origin.
+Ajout d'une nouvelle ligne depuis l'UI.
